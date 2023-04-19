@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/DockerProjectCppDevelopment/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/DockerProject.dir/src/main.cpp.o -c /workspaces/DockerProjectCppDevelopment/src/main.cpp",
+  "file": "/workspaces/DockerProjectCppDevelopment/src/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/workspaces/DockerProjectCppDevelopment/CMakeFiles/rebuild_cache.dir
+/workspaces/DockerProjectCppDevelopment/CMakeFiles/edit_cache.dir
+/workspaces/DockerProjectCppDevelopment/CMakeFiles/DockerProject.dir

@@ -1,0 +1,8 @@
+Create CMakeList.txt
+run 'cmake .'
+run 'make'
+run './DockerProject
+
+Should see what is printed out in the console out of the main.cpp file.
+
+If you change something and the console prints still the old stuff, rerun the three commads, which are mentioned earlier in this file.
